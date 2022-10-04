@@ -1,0 +1,51 @@
+.newComment {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: #e0e7ef;
+  width: 600px;
+  height: 300px;
+  color: #444;
+  border-radius: 5px;
+}
+
+.formControl {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 8px 0;
+}
+
+.formControl input {
+  width: 200px;
+  padding: 3px 10px;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+}
+
+.formControl label {
+  font-size: 16px;
+  font-weight: bold;
+  margin-right: 7px;
+}
+
+.formControl textarea {
+  width: 200px;
+  height: 70px;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+  padding: 5px 10px;
+}
+
+.btn {
+  outline: none;
+  padding: 7px 10px;
+  background-color: #b543e6;
+  border: none;
+  border-radius: 5px;
+  font-size: 14px;
+  font-weight: bold;
+}
