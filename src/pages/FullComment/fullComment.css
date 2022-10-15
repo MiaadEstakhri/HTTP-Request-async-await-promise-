@@ -4,20 +4,21 @@
   justify-content: center;
   align-items: center;
   background: #e0e7ef;
-  width: 600px;
   height: 280px;
   color: #444;
   border-radius: 5px;
-  margin: 20px 0;
+  margin: 20px ;
 }
 
 .btnDelete {
   outline: none;
   padding: 7px 10px;
+  margin-top: 15px;
   background-color: transparent;
   color: #cc2323bd;
   border: 1px solid #cc2323bd;
   border-radius: 5px;
   font-size: 14px;
   font-weight: bold;
+  cursor: pointer;
 }
